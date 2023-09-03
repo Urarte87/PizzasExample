@@ -1,0 +1,24 @@
+{
+  "name": "node-easy-pizzas-app",
+  "version": "1.0.0",
+  "description": "nevermind",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "juan urarte",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^6.2.0",
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.1"
+  }
+}
